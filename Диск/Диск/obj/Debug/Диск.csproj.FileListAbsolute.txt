@@ -1,0 +1,11 @@
+C:\Users\Arina\source\repos\Диск\Диск\bin\Debug\Диск.exe.config
+C:\Users\Arina\source\repos\Диск\Диск\bin\Debug\Диск.exe
+C:\Users\Arina\source\repos\Диск\Диск\bin\Debug\Диск.pdb
+C:\Users\Arina\source\repos\Диск\Диск\obj\Debug\Диск.csproj.AssemblyReference.cache
+C:\Users\Arina\source\repos\Диск\Диск\obj\Debug\Диск.csproj.SuggestedBindingRedirects.cache
+C:\Users\Arina\source\repos\Диск\Диск\obj\Debug\Диск.Form1.resources
+C:\Users\Arina\source\repos\Диск\Диск\obj\Debug\Диск.Properties.Resources.resources
+C:\Users\Arina\source\repos\Диск\Диск\obj\Debug\Диск.csproj.GenerateResource.cache
+C:\Users\Arina\source\repos\Диск\Диск\obj\Debug\Диск.csproj.CoreCompileInputs.cache
+C:\Users\Arina\source\repos\Диск\Диск\obj\Debug\Диск.exe
+C:\Users\Arina\source\repos\Диск\Диск\obj\Debug\Диск.pdb

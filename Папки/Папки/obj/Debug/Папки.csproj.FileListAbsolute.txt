@@ -1,0 +1,11 @@
+C:\Users\Arina\source\repos\Папки\Папки\bin\Debug\Папки.exe.config
+C:\Users\Arina\source\repos\Папки\Папки\bin\Debug\Папки.exe
+C:\Users\Arina\source\repos\Папки\Папки\bin\Debug\Папки.pdb
+C:\Users\Arina\source\repos\Папки\Папки\obj\Debug\Папки.csproj.AssemblyReference.cache
+C:\Users\Arina\source\repos\Папки\Папки\obj\Debug\Папки.csproj.SuggestedBindingRedirects.cache
+C:\Users\Arina\source\repos\Папки\Папки\obj\Debug\Папки.Form1.resources
+C:\Users\Arina\source\repos\Папки\Папки\obj\Debug\Папки.Properties.Resources.resources
+C:\Users\Arina\source\repos\Папки\Папки\obj\Debug\Папки.csproj.GenerateResource.cache
+C:\Users\Arina\source\repos\Папки\Папки\obj\Debug\Папки.csproj.CoreCompileInputs.cache
+C:\Users\Arina\source\repos\Папки\Папки\obj\Debug\Папки.exe
+C:\Users\Arina\source\repos\Папки\Папки\obj\Debug\Папки.pdb
