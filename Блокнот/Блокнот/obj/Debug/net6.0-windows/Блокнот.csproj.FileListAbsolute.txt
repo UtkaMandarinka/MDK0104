@@ -1,0 +1,57 @@
+C:\Users\Дети\Desktop\Мдк1.1\Блокнот\Блокнот\obj\Debug\net6.0-windows\Блокнот.csproj.AssemblyReference.cache
+C:\Users\Дети\Desktop\Мдк1.1\Блокнот\Блокнот\obj\Debug\net6.0-windows\Блокнот.MainForm.resources
+C:\Users\Дети\Desktop\Мдк1.1\Блокнот\Блокнот\obj\Debug\net6.0-windows\Блокнот.GoToForm.resources
+C:\Users\Дети\Desktop\Мдк1.1\Блокнот\Блокнот\obj\Debug\net6.0-windows\Блокнот.SearchForm.resources
+C:\Users\Дети\Desktop\Мдк1.1\Блокнот\Блокнот\obj\Debug\net6.0-windows\Блокнот.csproj.GenerateResource.cache
+C:\Users\Дети\Desktop\Мдк1.1\Блокнот\Блокнот\obj\Debug\net6.0-windows\Блокнот.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Дети\Desktop\Мдк1.1\Блокнот\Блокнот\obj\Debug\net6.0-windows\Блокнот.AssemblyInfoInputs.cache
+C:\Users\Дети\Desktop\Мдк1.1\Блокнот\Блокнот\obj\Debug\net6.0-windows\Блокнот.AssemblyInfo.cs
+C:\Users\Дети\Desktop\Мдк1.1\Блокнот\Блокнот\obj\Debug\net6.0-windows\Блокнот.csproj.CoreCompileInputs.cache
+C:\Users\Дети\Desktop\Мдк1.1\Блокнот\Блокнот\bin\Debug\net6.0-windows\Блокнот.exe
+C:\Users\Дети\Desktop\Мдк1.1\Блокнот\Блокнот\bin\Debug\net6.0-windows\Блокнот.deps.json
+C:\Users\Дети\Desktop\Мдк1.1\Блокнот\Блокнот\bin\Debug\net6.0-windows\Блокнот.runtimeconfig.json
+C:\Users\Дети\Desktop\Мдк1.1\Блокнот\Блокнот\bin\Debug\net6.0-windows\Блокнот.dll
+C:\Users\Дети\Desktop\Мдк1.1\Блокнот\Блокнот\bin\Debug\net6.0-windows\ref\Блокнот.dll
+C:\Users\Дети\Desktop\Мдк1.1\Блокнот\Блокнот\bin\Debug\net6.0-windows\Блокнот.pdb
+C:\Users\Дети\Desktop\Мдк1.1\Блокнот\Блокнот\obj\Debug\net6.0-windows\Блокнот.dll
+C:\Users\Дети\Desktop\Мдк1.1\Блокнот\Блокнот\obj\Debug\net6.0-windows\ref\Блокнот.dll
+C:\Users\Дети\Desktop\Мдк1.1\Блокнот\Блокнот\obj\Debug\net6.0-windows\Блокнот.pdb
+C:\Users\Дети\Desktop\Мдк1.1\Блокнот\Блокнот\obj\Debug\net6.0-windows\Блокнот.genruntimeconfig.cache
+D:\Арина доки\Папка с диска С\Мдк1.1\Блокнот\Блокнот\bin\Debug\net6.0-windows\Блокнот.exe
+D:\Арина доки\Папка с диска С\Мдк1.1\Блокнот\Блокнот\bin\Debug\net6.0-windows\Блокнот.deps.json
+D:\Арина доки\Папка с диска С\Мдк1.1\Блокнот\Блокнот\bin\Debug\net6.0-windows\Блокнот.runtimeconfig.json
+D:\Арина доки\Папка с диска С\Мдк1.1\Блокнот\Блокнот\bin\Debug\net6.0-windows\Блокнот.dll
+D:\Арина доки\Папка с диска С\Мдк1.1\Блокнот\Блокнот\bin\Debug\net6.0-windows\Блокнот.pdb
+D:\Арина доки\Папка с диска С\Мдк1.1\Блокнот\Блокнот\obj\Debug\net6.0-windows\Блокнот.csproj.AssemblyReference.cache
+D:\Арина доки\Папка с диска С\Мдк1.1\Блокнот\Блокнот\obj\Debug\net6.0-windows\Блокнот.MainForm.resources
+D:\Арина доки\Папка с диска С\Мдк1.1\Блокнот\Блокнот\obj\Debug\net6.0-windows\Блокнот.GoToForm.resources
+D:\Арина доки\Папка с диска С\Мдк1.1\Блокнот\Блокнот\obj\Debug\net6.0-windows\Блокнот.SearchForm.resources
+D:\Арина доки\Папка с диска С\Мдк1.1\Блокнот\Блокнот\obj\Debug\net6.0-windows\Блокнот.csproj.GenerateResource.cache
+D:\Арина доки\Папка с диска С\Мдк1.1\Блокнот\Блокнот\obj\Debug\net6.0-windows\Блокнот.GeneratedMSBuildEditorConfig.editorconfig
+D:\Арина доки\Папка с диска С\Мдк1.1\Блокнот\Блокнот\obj\Debug\net6.0-windows\Блокнот.AssemblyInfoInputs.cache
+D:\Арина доки\Папка с диска С\Мдк1.1\Блокнот\Блокнот\obj\Debug\net6.0-windows\Блокнот.AssemblyInfo.cs
+D:\Арина доки\Папка с диска С\Мдк1.1\Блокнот\Блокнот\obj\Debug\net6.0-windows\Блокнот.csproj.CoreCompileInputs.cache
+D:\Арина доки\Папка с диска С\Мдк1.1\Блокнот\Блокнот\obj\Debug\net6.0-windows\Блокнот.dll
+D:\Арина доки\Папка с диска С\Мдк1.1\Блокнот\Блокнот\obj\Debug\net6.0-windows\refint\Блокнот.dll
+D:\Арина доки\Папка с диска С\Мдк1.1\Блокнот\Блокнот\obj\Debug\net6.0-windows\Блокнот.pdb
+D:\Арина доки\Папка с диска С\Мдк1.1\Блокнот\Блокнот\obj\Debug\net6.0-windows\Блокнот.genruntimeconfig.cache
+D:\Арина доки\Папка с диска С\Мдк1.1\Блокнот\Блокнот\obj\Debug\net6.0-windows\ref\Блокнот.dll
+C:\Users\Arina\source\repos\Блокнот\Блокнот\bin\Debug\net6.0-windows\Блокнот.exe
+C:\Users\Arina\source\repos\Блокнот\Блокнот\bin\Debug\net6.0-windows\Блокнот.deps.json
+C:\Users\Arina\source\repos\Блокнот\Блокнот\bin\Debug\net6.0-windows\Блокнот.runtimeconfig.json
+C:\Users\Arina\source\repos\Блокнот\Блокнот\bin\Debug\net6.0-windows\Блокнот.dll
+C:\Users\Arina\source\repos\Блокнот\Блокнот\bin\Debug\net6.0-windows\Блокнот.pdb
+C:\Users\Arina\source\repos\Блокнот\Блокнот\obj\Debug\net6.0-windows\Блокнот.csproj.AssemblyReference.cache
+C:\Users\Arina\source\repos\Блокнот\Блокнот\obj\Debug\net6.0-windows\Блокнот.MainForm.resources
+C:\Users\Arina\source\repos\Блокнот\Блокнот\obj\Debug\net6.0-windows\Блокнот.GoToForm.resources
+C:\Users\Arina\source\repos\Блокнот\Блокнот\obj\Debug\net6.0-windows\Блокнот.SearchForm.resources
+C:\Users\Arina\source\repos\Блокнот\Блокнот\obj\Debug\net6.0-windows\Блокнот.csproj.GenerateResource.cache
+C:\Users\Arina\source\repos\Блокнот\Блокнот\obj\Debug\net6.0-windows\Блокнот.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arina\source\repos\Блокнот\Блокнот\obj\Debug\net6.0-windows\Блокнот.AssemblyInfoInputs.cache
+C:\Users\Arina\source\repos\Блокнот\Блокнот\obj\Debug\net6.0-windows\Блокнот.AssemblyInfo.cs
+C:\Users\Arina\source\repos\Блокнот\Блокнот\obj\Debug\net6.0-windows\Блокнот.csproj.CoreCompileInputs.cache
+C:\Users\Arina\source\repos\Блокнот\Блокнот\obj\Debug\net6.0-windows\Блокнот.dll
+C:\Users\Arina\source\repos\Блокнот\Блокнот\obj\Debug\net6.0-windows\refint\Блокнот.dll
+C:\Users\Arina\source\repos\Блокнот\Блокнот\obj\Debug\net6.0-windows\Блокнот.pdb
+C:\Users\Arina\source\repos\Блокнот\Блокнот\obj\Debug\net6.0-windows\Блокнот.genruntimeconfig.cache
+C:\Users\Arina\source\repos\Блокнот\Блокнот\obj\Debug\net6.0-windows\ref\Блокнот.dll

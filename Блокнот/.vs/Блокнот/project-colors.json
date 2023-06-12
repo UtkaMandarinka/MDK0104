@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "9a86c837-4d31-4af8-9a0b-d366084b2d0e": {
+      "ProjectGuid": "9a86c837-4d31-4af8-9a0b-d366084b2d0e",
+      "DisplayName": "Блокнот",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
