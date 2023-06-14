@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33502.453
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Работа с строками", "Работа с строками\Работа с строками.csproj", "{2256B8B7-C11D-424F-91FB-A9A6F1276595}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2256B8B7-C11D-424F-91FB-A9A6F1276595}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2256B8B7-C11D-424F-91FB-A9A6F1276595}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2256B8B7-C11D-424F-91FB-A9A6F1276595}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2256B8B7-C11D-424F-91FB-A9A6F1276595}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CE7B63D8-73B8-40C3-B228-9C7C35CECC52}
+	EndGlobalSection
+EndGlobal

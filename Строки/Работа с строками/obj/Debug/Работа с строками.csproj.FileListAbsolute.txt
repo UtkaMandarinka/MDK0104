@@ -1,0 +1,11 @@
+C:\Users\Arina\source\repos\Работа с строками\Работа с строками\bin\Debug\Работа с строками.exe.config
+C:\Users\Arina\source\repos\Работа с строками\Работа с строками\bin\Debug\Работа с строками.exe
+C:\Users\Arina\source\repos\Работа с строками\Работа с строками\bin\Debug\Работа с строками.pdb
+C:\Users\Arina\source\repos\Работа с строками\Работа с строками\obj\Debug\Работа с строками.csproj.AssemblyReference.cache
+C:\Users\Arina\source\repos\Работа с строками\Работа с строками\obj\Debug\Работа с строками.csproj.SuggestedBindingRedirects.cache
+C:\Users\Arina\source\repos\Работа с строками\Работа с строками\obj\Debug\Работа_с_строками.Form1.resources
+C:\Users\Arina\source\repos\Работа с строками\Работа с строками\obj\Debug\Работа_с_строками.Properties.Resources.resources
+C:\Users\Arina\source\repos\Работа с строками\Работа с строками\obj\Debug\Работа с строками.csproj.GenerateResource.cache
+C:\Users\Arina\source\repos\Работа с строками\Работа с строками\obj\Debug\Работа с строками.csproj.CoreCompileInputs.cache
+C:\Users\Arina\source\repos\Работа с строками\Работа с строками\obj\Debug\Работа с строками.exe
+C:\Users\Arina\source\repos\Работа с строками\Работа с строками\obj\Debug\Работа с строками.pdb
